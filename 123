@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Workout Plan Signup</title>
+
+  <style>
+
+    form {
+
+      border: 2px solid blue;
+
+      padding: 10px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <h1>Get Fit with Our Workout Plan</h1>
+
+  <p>Sign up to receive our exclusive workout plan and get on the path to a healthier you!</p>
+
+  <form>
+
+    <label for="email">Email:</label><br>
+
+    <input type="email" id="email" name="email"><br>
+
+    <input type="submit" value="Sign Up">
+
+  </form> 
+
+</body>
+
+</html>
+
